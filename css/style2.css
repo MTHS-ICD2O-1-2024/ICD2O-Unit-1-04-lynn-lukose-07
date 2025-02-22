@@ -3,21 +3,21 @@
 * This CSS file defines the style for index2.html ICS2O-Unit1-04-HTML-CSS
 */
 body {
-  background-color: green;
+  background-color:rgb(255, 121, 251);
 }
 h1 {
-  background-color: rgb(255, 0, 221);
+  background-color: rgb(232, 101, 247);
   color: hsl(239, 50%, 47%);
   padding: 40px;
   text-align: center;
 }
 
 p {
-  background-color: #e5ff00;
+  background-color: rgb(232, 101, 247);
 }
 
 ul {
-  color: beige;
+  color: rgb(45, 41, 109);
 }
 
 ul li::before {
@@ -30,9 +30,9 @@ table {
 
 th {
   height: 2rem;
-  background: red;
+  background: rgb(255, 110, 233);
   border: 1px solid white;
-  text-align: left;
+  text-align: center;
 }
 td {
   height: 2rem;
